@@ -7,6 +7,12 @@ body {
   color: #5a5a5a;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+p, div {
+    font-family: 'Open Sans', sans-serif;
+}
 
 
 /* CUSTOMIZE THE NAVBAR
